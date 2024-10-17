@@ -30,7 +30,7 @@ The Advanced Task Management System is a Laravel-based application designed to m
 
 1. **Clone the Repository:**
 ```
-git clone https://github.com/amalSheikhdaher/Advanced_Task_Management_system.git
+git clone https://github.com/amalSheikhdaher/Advanced_Task_Management_System.git
 ```
 
 2. **Install Dependencies:**
